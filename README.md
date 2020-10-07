@@ -1,8 +1,8 @@
 # complete
 
-[![Build Status](https://travis-ci.org/posener/complete.svg?branch=master)](https://travis-ci.org/posener/complete)
-[![codecov](https://codecov.io/gh/posener/complete/branch/master/graph/badge.svg)](https://codecov.io/gh/posener/complete)
-[![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/posener/complete)
+[![Build Status](https://travis-ci.org/vadmeste/complete.svg?branch=master)](https://travis-ci.org/vadmeste/complete)
+[![codecov](https://codecov.io/gh/vadmeste/complete/branch/master/graph/badge.svg)](https://codecov.io/gh/vadmeste/complete)
+[![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/vadmeste/complete)
 
 Package complete is everything for bash completion and Go.
 
